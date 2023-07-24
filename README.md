@@ -1,2 +1,2 @@
 # Elections-municipales
-Une application desktop code par la langauge c sur Liniux(ubuntu) de gestion des élections municipales est conçue pour simplifier le processus électoral. 
+Une application desktop en langage C pour Linux (Ubuntu) simplifie et digitalise les élections municipales. Elle gère les listes électorales en ligne, permet le vote électronique, réalise un dépouillement automatisé et génère des rapports électroniques sécurisés. Conviviale pour les électeurs et les autorités électorales.
